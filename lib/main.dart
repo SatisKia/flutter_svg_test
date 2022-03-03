@@ -38,7 +38,7 @@ class _MyHomePageState extends State {
 
     return Scaffold(
       appBar: AppBar(
-          toolbarHeight: 0 // statusバーを残してAppBarを消す
+          toolbarHeight: 0
       ),
       body: body
     );
